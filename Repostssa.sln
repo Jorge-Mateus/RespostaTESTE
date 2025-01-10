@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repostssa", "Repostssa\Repostssa.csproj", "{D87B4886-DF34-4801-8337-3B06586AD64C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87B4886-DF34-4801-8337-3B06586AD64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87B4886-DF34-4801-8337-3B06586AD64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87B4886-DF34-4801-8337-3B06586AD64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87B4886-DF34-4801-8337-3B06586AD64C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F250CB2-DAF8-4377-BCAE-5484D2807520}
+	EndGlobalSection
+EndGlobal
